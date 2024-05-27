@@ -1,0 +1,495 @@
+G-SYNC ULTIMATE	Acer	CP7271K	Yes	27	IPS	3840x2160 (4K)	1-144Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	Acer	Predator X32	Yes	32	IPS	3840x2160 (4K)	1-160Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	Acer	X27	Yes	27	IPS	3840x2160 (4K)	1-144Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	Acer	X32	Yes	32	IPS	3840x2160 (4K)	1-144Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	Acer	X35	Yes	35	VA	3440x1440 (WQHD)	1-200Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	Acer	X38S	Yes	37.5	IPS	3840x1600 (WQHD+)	1-175Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	ASUS	PG65	Yes	65	VA	3840x2160 (4K)	1-144Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	ASUS	PG27UQ	Yes	27	IPS	3840x2160 (4K)	1-144Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	ASUS	PG32UQX	Yes	32	IPS	3840x2160 (4K)	1-144Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	ASUS	PG35VQ	Yes	35	VA	3440x1440 (WQHD)	1-200Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	ASUS	PG32UQXE	Yes	32	IPS	3840x2160 (4K)	1-160Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	AGON by AOC	AG353UCG	Yes	35	VA	3440x1440 (WQHD)	1-200Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	AGON by AOC	AGON PRO AG274QGM	Yes	27	IPS	2560x1440 (QHD)	1-300Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	AGON by AOC	AGON PRO AG274QG	Yes	27	IPS	2560x1440 (QHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	Alienware	AW2721D	Yes	27	IPS	2560x1440 (QHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	Alienware	AW3821DW	Yes	37.5	IPS	3840x1600 (WQHD+)	1-144Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	Alienware	AW3423DW	Yes	34	OLED	3440x1440 (WQHD)	1-175Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	HP	OMEN X Emperium 65	Yes	65	VA	3840x2160 (4K)	1-144Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	LG	34GP950G	Yes	34	IPS	3440x1440 (WQHD)	1-180Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	MSI	MEG 271Q Mini LED	Yes	27	IPS	2560x1440 (QHD)	1-300Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	MSI	MEG381CQR	Yes	37.5	IPS	3840x1600 (WQHD+)	1-175Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	ViewSonic	ELITE XG272G	Yes	27	IPS	2560x1440 (QHD)	1-300Hz	Yes	Display Port	N/A
+G-SYNC ULTIMATE	ViewSonic	XG321UG	Yes	32	IPS	3840x2160 (4K)	1-144Hz	No	Display Port	N/A
+G-SYNC	Acer	XB273U NX	Yes	27	IPS	2560x1440 (QHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	Acer	X34S	Yes	34	IPS	3440x1440 (WQHD)	1-175Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB321HK	No	31.5	IPS	3840x2160 (4K)	1-60Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB281HK	No	28	TN	3840x2160 (4K)	1-60Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB280HK	No	28	TN	3840x2160 (4K)	1-60Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB273U	Yes	27	IPS	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB273KP	No	27	IPS	3840x2160 (4K)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB271HK	No	27	IPS	3840x2160 (4K)	1-60Hz	Yes	Display Port	N/A
+G-SYNC	Acer	Z35P	No	35	VA	3440x1440 (WQHD)	1-120Hz (OC)	Yes	Display Port	N/A
+G-SYNC	Acer	X25	No	24.5	IPS	1920x1080 (FHD)	1-360Hz	Yes	Display Port	N/A
+G-SYNC	Acer	X28	Yes	28	IPS	3840x2160 (4K)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Acer	X34	No	34	IPS	3440x1440 (WQHD)	1-120Hz (OC)	Yes	Display Port	N/A
+G-SYNC	Acer	X34P	No	34	IPS	3440x1440 (WQHD)	1-100Hz (OC)	Yes	Display Port	N/A
+G-SYNC	Acer	X38	Yes	37.5	IPS	3840x1600 (WQHD+)	1-175Hz	Yes	Display Port	N/A
+G-SYNC	Acer	Z321QU	No	31.5	VA	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB270HU_C	No	27	IPS	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB271HU_A	No	27	TN	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB271H_C	No	27	IPS	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB271H_UD	No	27	IPS	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	Acer	Z271U	No	27	TN	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	Acer	Z321Q	No	31.5	VA	1920x1080 (FHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Acer	Z301C	No	30	VA	1920x1080 (FHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB270HA	No	27	TN	1920x1080 (FHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB272	No	27	TN	1920x1080 (FHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	Acer	Z271A	No	27	VA	1920x1080 (FHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB252Q	No	24.5	TN	1920x1080 (FHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XN253QX	No	24.5	TN	1920x1080 (FHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XN253QP	No	24.5	TN	1920x1080 (FHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB240	No	24	TN	1920x1080 (FHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB241H	No	24	TN	1920x1080 (FHD)	1-180Hz (OC)	Yes	Display Port	N/A
+G-SYNC	Acer	XB241YU	No	23.8	TN	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	Acer	XB273U F	Yes	27	IPS	2560x1440 (QHD)	1-360Hz	Yes	Display Port	N/A
+G-SYNC	Acer	Z35	No	35	VA	2560x1080 (WFHD)	1-200Hz	Yes	Display Port	N/A
+G-SYNC	AGON by AOC	AG271UG	No	27	IPS	3840x2160 (4K)	1-60Hz	Yes	Display Port	N/A
+G-SYNC	AGON by AOC	AG273QG	No	27	IPS	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	AGON by AOC	AG352UCG6	No	35	VA	3440x1440 (WQHD)	1-120Hz	Yes	Display Port	N/A
+G-SYNC	AGON by AOC	AG273QCG	No	27	TN	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	AGON by AOC	AG271QG	No	27	IPS	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	AGON by AOC	AG322QCG	No	31.5	VA	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	AGON by AOC	AG241QG	No	24	TN	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	AGON by AOC	AG251FG	No	24.5	TN	1920x1080 (FHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	AGON by AOC	AGON PRO AG254FG	Yes	24.5	IPS	1920x1080 (FHD)	1-360Hz	Yes	Display Port	N/A
+G-SYNC	AOC	G2460PG	No	24	TN	1920x1080 (FHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	AOC	AG276QZGD	Yes	27	IPS	2560x1440 (QHD)	1-360Hz	Yes	DP1.4	N/A
+G-SYNC	ASUS	PG248QP	Yes	24.1	E- TN	1920x1080 (FHD)	1-540Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG27AQ	No	27	IPS	3840x2160 (4K)	1-60Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG27AQN	Yes	27	IPS	2560x1440 (QHD)	1-360Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG259QN	No	24.5	IPS	1920x1080 (FHD)	1-360Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG259QNR	No	24.5	IPS	1920x1080 (FHD)	1-360Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG349Q	No	34	IPS	3440x1440 (WQHD)	1-120Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG348	No	34	IPS	3440x1440 (WQHD)	1-100Hz (OC)	Yes	Display Port	N/A
+G-SYNC	ASUS	PG278Q	No	27	TN	2560x1440 (QHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG279	No	27	IPS	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG279QM	Yes	27	IPS	2560x1440 (QHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG278QR	No	27	TN	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG27VQ	No	27	TN	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG258Q	No	24.5	TN	1920x1080 (FHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	ASUS	PG248Q	No	24	TN	1920x1080 (FHD)	1-180Hz (OC)	Yes	Display Port	N/A
+G-SYNC	ASUS	ROG Swift PG27 series	Yes	27	IPS	2560X1440 (QHD)	1-360Hz	No	Display Port	N/A
+G-SYNC	Alienware	AW2521H	No	24.5	IPS	1920x1080 (FHD)	1-360Hz	Yes	Display Port	N/A
+G-SYNC	Alienware	AW2524H	Yes	24.5	IPS	1920x1080 (FHD)	1-500Hz	Yes	DP1.4	N/A
+G-SYNC	Alienware	AW3420DW	No	34	IPS	3440x1440 (WQHD)	1-120Hz	Yes	Display Port	N/A
+G-SYNC	Alienware	AW3418DW	No	34	IPS	3440x1440 (WQHD)	1-120Hz (OC)	Yes	Display Port	N/A
+G-SYNC	Dell	S2716DG	No	27	TN	2560x1440 (QHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Dell	S2417DG	No	23.8	TN	2560x1440 (QHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Alienware	AW3418HW	No	34	IPS	2560x1080 (WFHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	Alienware	AW2518H	No	24.5	TN	1920x1080 (FHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	HP	OMEN X 35	No	35	VA	3440x1440 (WQHD)	1-100Hz	Yes	Display Port	N/A
+G-SYNC	HP	OMEN X 25	No	25	TN	1920x1080 (FHD)	1-250Hz	Yes	Display Port	N/A
+G-SYNC	HP	OMEN 27	No	27	TN	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	Lenovo	Y25g-30	No	24.5	IPS	1920x1080 (FHD)	1-360Hz	Yes	Display Port	N/A
+G-SYNC	Lenovo	Y27GQ-20	No	27	TN	2560x1440 (QHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	LG	25GR75FG	Yes	24.5	IPS	1920x1080 (FHD)	1-360Hz	Yes	DP1.4	N/A
+G-SYNC	LG	34GK950G	No	34	IPS	3440x1440 (WQHD)	1-120Hz (OC)	Yes	Display Port	N/A
+G-SYNC	LG	32GK850G	No	31.5	VA	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	LG	32GK650G	No	31.5	VA	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	LG	38GL950G	Yes	38	IPS	3840x1600 (WQHD+)	1-175Hz	Yes	Display Port	N/A
+G-SYNC	LG	34UC89G	No	34	IPS	2560x1080 (WFHD)	1-144Hz	Yes	Display Port	N/A
+G-SYNC	MSI	NXG251R	No	24.5	TN	1920x1080 (FHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	MSI	NXG252R	No	24.5	TN	1920x1080 (FHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	MSI	NXG253	No	24.5	IPS	1920x1080 (FHD)	1-360Hz	Yes	Display Port	N/A
+G-SYNC	ViewSonic	XG251G	No	24.5	IPS	1920x1080 (FHD)	1-360Hz	Yes	Display Port	N/A
+G-SYNC	ViewSonic	XG270QG	No	27	IPS	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	ViewSonic	XG271QG	Yes	27	IPS	2560x1440 (QHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC	ViewSonic	XG2703Gs	No	27	IPS	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	ViewSonic	XG2760	No	27	TN	2560x1440 (QHD)	1-165Hz	Yes	Display Port	N/A
+G-SYNC	ViewSonic	XG2560	No	24.5	TN	1920x1080 (FHD)	1-240Hz	Yes	Display Port	N/A
+G-SYNC Compatible	Acer	CP3721K P	Yes	27	IPS	3840x2160 (4K)	48-120Hz	No	Display Port	436.02 or newer
+G-SYNC Compatible	Acer	CP3271U V	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	457.30 or newer
+G-SYNC Compatible	Acer	CP5271U V	Yes	27	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	452.06 or newer
+G-SYNC Compatible	Acer	VG272 LV	Yes	27	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	452.06 or newer
+G-SYNC Compatible	Acer	VG272U P	Yes	27	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	440.97 or newer
+G-SYNC Compatible	Acer	VG272X	Yes	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	440.97 or newer
+G-SYNC Compatible	Acer	X34 GS	Yes	34	IPS	3440x1440 (WQHD)	50-180Hz	No	Display Port	452.06 or newer
+G-SYNC Compatible	Acer	X45	Yes	45	OLED	3440x1440 (WQHD)	48-240Hz	No	Display Port	546.01 or newer
+G-SYNC Compatible	Acer	XB273K GP	Yes	27	IPS	3840x2160 (4K)	48-120Hz	No	Display Port	436.02 or newer
+G-SYNC Compatible	Acer	XB273GP	Yes	27	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	445.87 or newer
+G-SYNC Compatible	Acer	XB273U GX	Yes	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	452.06 or newer
+G-SYNC Compatible	Acer	XB273U Z	Yes	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	Acer	XB283KV	Yes	28	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	Acer	XV242Y	Yes	24.8	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	460.79 or newer
+G-SYNC Compatible	Acer	XB253Q GP	Yes	24.5	IPS	1920x1080 (FHD)	50-144Hz	No	Display Port	461.40 or newer
+G-SYNC Compatible	Acer	XB273GZ	Yes	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	461.40 or newer
+G-SYNC Compatible	Acer	XB273U NV	Yes	27	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	460.79 or newer
+G-SYNC Compatible	Acer	XB323U	Yes	31.5	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	445.87 or newer
+G-SYNC Compatible	Acer	XB323U GX	Yes	32	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	457.09 or newer
+G-SYNC Compatible	Acer	KG271 Bbmiipx	No	27	TN	1920x1080 (FHD)	48-240Hz	No	Display Port	430.39 or newer
+G-SYNC Compatible	Acer	XF240H bmjdpr	No	24	TN	1920x1080 (FHD)	48-144Hz	No	Display Port	430.39 or newer
+G-SYNC Compatible	Acer	XF270H BBMIIPRX	No	27	TN	1920x1080 (FHD)	48-144Hz	No	Display Port	430.39 or newer
+G-SYNC Compatible	Acer	XB273GX	Yes	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	445.40 or newer
+G-SYNC Compatible	Acer	XB253Q GW	Yes	24.5	IPS	1920x1080 (FHD)	50-240Hz	No	Display Port	456.38 or newer
+G-SYNC Compatible	Acer	XV272S	Yes	27	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	461.40 or newer
+G-SYNC Compatible	Acer	XV272 LV	Yes	27	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	452.06 or newer
+G-SYNC Compatible	Acer	XV273U	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	441.20 or newer
+G-SYNC Compatible	Acer	XV273K	Yes	27	IPS	3840x2160 (4K)	48-120Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	Acer	ED273 Abidpx	No	27	VA	1920x1080 (FHD)	48-144Hz	No	Display Port	419.35 or newer
+G-SYNC Compatible	Acer	XG270HU	No	27	TN	2560x1440 (QHD)	40-144Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	Acer	XZ321Q	No	32	VA	1920x1080 (FHD)	48-144Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	Acer	CG437K P	Yes	43	VA	3840x2160 (4K)	48-120Hz	No	Display Port	436.48 or newer
+G-SYNC Compatible	Acer	VG252Q P	No	24.5	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	436.30 or newer
+G-SYNC Compatible	Acer	XB253Q GX	Yes	24.5	IPS	1920x1080 (FHD)	50-240Hz	No	Display Port	441.41 or newer
+G-SYNC Compatible	Acer	XB253Q GZ	Yes	25	IPS	1920x1080 (FHD)	50-240Hz	No	Display Port	451.48 or newer
+G-SYNC Compatible	Acer	XFA240	No	24	TN	1920x1080 (FHD)	48-144Hz	No	Display Port	430.39 or newer
+G-SYNC Compatible	Acer	XF250Q Cbmiiprx	No	24.5	TN	1920x1080 (FHD)	48-240Hz	No	Display Port	419.17 or newer
+G-SYNC Compatible	Acer	XV253QX	Yes	24.5	IPS	1920x1080 (FHD)	50-240Hz	No	Display Port	441.41 or newer
+G-SYNC Compatible	Acer	XV272U P	Yes	27	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	441.66 or newer
+G-SYNC Compatible	Acer	XV273 X	No	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	436.30 or newer
+G-SYNC Compatible	Acer	X27U	Yes	27	OLED	2560x1440 (QHD)	48-240Hz	No	Display Port	Future
+G-SYNC Compatible	Acer	VG252QX	No	24.5	IPS	1920x1080 (FHD)	50-240Hz	No	Display Port	441.41 or newer
+G-SYNC Compatible	AOC	16G3	No	16	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	AOC	24G4	No	24	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	AOC	24G 2Z/2ZU/2ZE	Yes	23.8	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	466.27 or newer
+G-SYNC Compatible	AOC	27G4	No	27	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	AOC	27G2SP U/E/AE	No	27	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	440.97 or newer
+G-SYNC Compatible	AOC	24G2 S/U/A/E	No	24	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	496.49 or newer
+G-SYNC Compatible	AOC	AG275QA1	Yes	27	IPS	2560x1440 (QHD)	60-170Hz	No	Display Port	537.34 or newer
+G-SYNC Compatible	AOC	AG275QX	Yes	27	IPS	2560x1440 (QHD)	60-170Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	AOC	AG275QXP	Yes	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	537.13 or newer
+G-SYNC Compatible	AOC	AG275QXPD	Yes	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	537.13 or newer
+G-SYNC Compatible	AOC	AG275QZ	Yes	27	IPS	2560x1440 (QHD)	48-270Hz	No	Display Port	537.13 or newer
+G-SYNC Compatible	AOC	AG276QZD	Yes	27	OLED	2560x1440 (QHD)	48-240Hz	No	Display Port	531.68 or newer
+G-SYNC Compatible	AOC	AG325QX	Yes	32	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	AOC	AG456UCZD	Yes	45	OLED	3440x1440 (WQHD)	48-240Hz	No	Display Port	546.01 or newer
+G-SYNC Compatible	AOC	PD27S	Yes	27	IPS	2560x1440 (QHD)	50-170Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	AOC	PD49	Yes	49	OLED	5120x1440 (DQHD)	48-240Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	AOC	PD32M	Yes	32	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	528.49 or newer
+G-SYNC Compatible	AOC	U27G3X	Yes	27	IPS	3840x2160 (4K)	48-160Hz	No	Display Port	537.34 or newer
+G-SYNC Compatible	AOC	U27G3XM	Yes	27	IPS	3840x2160 (4K)	48-160Hz	No	Display Port	546.01 or newer
+G-SYNC Compatible	AOC	Q27G4	No	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	AOC	Q27G20XM	No	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	AOC	Q27G2SD	Yes	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	AOC	Q32G3WG3	Yes	32	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	AGON by AOC	AGON PRO AG254FZ	Yes	24.5	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	471.11 or newer
+G-SYNC Compatible	AGON by AOC	AG271FZ2	No	27	TN	1920x1080 (FHD)	48-240Hz	No	Display Port	442.37 or newer
+G-SYNC Compatible	AGON by AOC	AG271F1G2	No	27	TN	1920x1080 (FHD)	48-165Hz	No	Display Port	442.29 or newer
+G-SYNC Compatible	AGON by AOC	AG272FCX6	No	27	MVA	1920x1080 (FHD)	48-165Hz	No	Display Port	431.60 or newer
+G-SYNC Compatible	AGON by AOC	AG272FG3R	No	27	MVA	1920x1080 (FHD)	48-165Hz	No	Display Port	431.60 or newer
+G-SYNC Compatible	AGON by AOC	AG273FZE	Yes	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	451.48 or newer
+G-SYNC Compatible	AGON by AOC	AGON PRO AG274FZ/FZ2	Yes	27	IPS	1920x1080 (FHD)	48-260Hz	No	Display Port	471.68 or newer
+G-SYNC Compatible	AGON by AOC	AG274QS8R1B	Yes	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	AGON by AOC	AGON PRO AG274QX	Yes	27	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	471.68 or newer
+G-SYNC Compatible	AGON by AOC	AGON PRO AG274QXM	Yes	27	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	496.49 or newer
+G-SYNC Compatible	AGON by AOC	AGON PRO AG274QZP	Yes	27	IPS	2560x1440 (QHD)	60-240Hz	No	Display Port	470.80 or newer
+G-SYNC Compatible	AGON by AOC	AGON PRO AG274US4R6B	Yes	27	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	471.11 or newer
+G-SYNC Compatible	AGON by AOC	AGON PRO AG275 QXL/QXE/QXR	Yes	27	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	511.23 or newer
+G-SYNC Compatible	AGON by AOC	AG241QX	No	24	TN	2560x1440 (QHD)	30-144Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	AGON by AOC	AG273QXP/AG273QXS	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	451.48 or newer
+G-SYNC Compatible	AGON by AOC	AGON PRO AG274UXP	Yes	27	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	466.27 or newer
+G-SYNC Compatible	AGON by AOC	AG275QXE	Yes	27	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	511.23 or newer
+G-SYNC Compatible	AOC	G2590FX	No	24.5	TN	1920x1080 (FHD)	30-146Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	AGON by AOC	AG485UD/AG485UD2	Yes	48	OLED	3840x2160 (4K)	48-120Hz	No	Display Port	531.68 or newer
+G-SYNC Compatible	AOC	G2590PX	No	24.5	TN	1920x1080 (FHD)	30-144Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	AOC	Q24G2	Yes	24	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	AOC	Q27G2S	No	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	451.48 or newer
+G-SYNC Compatible	AOC	Q27G3Z	Yes	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	531.68 or newer
+G-SYNC Compatible	AOC	Q32G3S	Yes	32	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	511.23 or newer
+G-SYNC Compatible	AOC	U32G3X	No	32	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	531.68 or newer
+G-SYNC Compatible	AOPEN	27HC1R Pbidpx	No	27	VA	1920x1080 (FHD)	48-144Hz	No	Display Port	430.39 or newer
+G-SYNC Compatible	ASUS	VG259QR	No	24.5	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	ASUS	PG32UCDM	Yes	32	OLED	3840x2160 (4K)	48-240Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	ASUS	XG259CMS	Yes	25	IPS	1920x1080 (FHD)	48-300Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	ASUS	XG27ACS	No	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	ASUS	XG309CM	No	30	IPS	2560x1080 (WFHD)	48-200Hz	No	Display Port	516.40 or newer
+G-SYNC Compatible	ASUS	XG27AQDMG	Yes	27	OLED	2560x1440 (QHD)	45-240Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	ASUS	XG27UQR	Yes	27	IPS	3840x2160 (4K)	60-144Hz	No	Display Port	497.09 or newer
+G-SYNC Compatible	ASUS	VG27AC1A	Yes	27	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	ASUS	VG27AQ	Yes	27	IPS	2560x1440 (WQHD)	48-144Hz	No	Display Port	436.02 or newer
+G-SYNC Compatible	ASUS	VG27AQ1A	Yes	27	IPS	2560x1440 (QHD)	50-144Hz	No	Display Port	456.38 or newer
+G-SYNC Compatible	ASUS	VG279QL1A	Yes	27	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	457.09 or newer
+G-SYNC Compatible	ASUS	VG27AQL3A	Yes	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	537.13 or newer
+G-SYNC Compatible	ASUS	VG279QM1A	No	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	537.13 or newer
+G-SYNC Compatible	ASUS	VG279QR	No	27	IPS	1920x1080 (FHD)	50-144Hz	No	Display Port	461.40 or newer
+G-SYNC Compatible	ASUS	VG28UQL1A	Yes	28	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	471.11 or newer
+G-SYNC Compatible	ASUS	VG258QR	No	24.5	TN	1920x1080 (FHD)	40-165Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	ASUS	ROG XG259CM	Yes	25	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	512.59 or newer
+G-SYNC Compatible	ASUS	VG259Q	No	25	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	441.20 or newer
+G-SYNC Compatible	ASUS	VG27AQM1A	Yes	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	546.29 or newer
+G-SYNC Compatible	ASUS	VG32AQL1A	No	32	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	496.49 or newer
+G-SYNC Compatible	ASUS	PG329	Yes	32	IPS	2560x1440 (QHD)	50-165Hz	No	Display Port	452.06 or newer
+G-SYNC Compatible	ASUS	PG27AQDM	Yes	27	OLED	2560x1440	40-240Hz	No	Display Port	Future
+G-SYNC Compatible	ASUS	PG27UQR	Yes	27	IPS	3840x2160 (4K)	48-160Hz	No	Display Port	537.13 or newer
+G-SYNC Compatible	ASUS	PG34WCDM	Yes	34	OLED	3440x1440 (WQHD)	40-240Hz	No	Display Port	546.29 or newer
+G-SYNC Compatible	ASUS	PG38UQ	Yes	38	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	536.23 or newer
+G-SYNC Compatible	ASUS	PG42UQ	Yes	42	OLED	3840x2160 (4K)	48-120Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	ASUS	PG43U	Yes	43	VA	3840x2160 (4K)	48-120Hz	Yes	Display Port	442.29 or newer
+G-SYNC Compatible	ASUS	XG249CM	Yes	23.8	IPS	1920x1080 (FHD)	48-270Hz	No	Display Port	496.49 or newer
+G-SYNC Compatible	ASUS	XG27AQ	Yes	27	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	457.30 or newer
+G-SYNC Compatible	ASUS	XG27AQV	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	528.49 or newer
+G-SYNC Compatible	ASUS	XG27AQM	Yes	27	IPS	2560x1440 (QHD)	60-240Hz	No	Display Port	496.49 or newer
+G-SYNC Compatible	ASUS	XG27AQMR	Yes	32	IPS	2560x1440	40-300Hz	No	Display Port	Future
+G-SYNC Compatible	ASUS	XG27UQR	Yes	27	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	ASUS	PG43UQ	Yes	43	VA	3840x2160 (UHD)	48-120Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	ASUS	VG249QM1A	Yes	24	IPS	1920x1080 (FHD)	55-240Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	ASUS	VG258QM	No	24.5	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	471.68 or newer
+G-SYNC Compatible	ASUS	VG259QM	Yes	24.5	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	442.16 or newer
+G-SYNC Compatible	ASUS	VG27AQL1A	Yes	27	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	451.48 or newer
+G-SYNC Compatible	ASUS	VG27AQ3A	Yes	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	536.23 or newer
+G-SYNC Compatible	ASUS	VG279QM1A	Yes	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	536.23 or newer
+G-SYNC Compatible	ASUS	VG27AQML1A	No	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	536.23 or newer
+G-SYNC Compatible	ASUS	VG27B	Yes	27	IPS	2560x1440 (QHD)	50-144Hz	No	Display Port	445.87 or newer
+G-SYNC Compatible	ASUS	VG278QR	No	27	TN	1920x1080 (FHD)	40-165Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	ASUS	VG278Q	No	27	TN	1920x1080 (FHD)	40-144Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	ASUS	XG258Q	No	24.5	TN	1920x1080 (FHD)	48-240Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	ASUS	VG258Q	No	24.5	TN	1920x1080 (FHD)	40-144Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	ASUS	VG279QM	Yes	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	441.41 or newer
+G-SYNC Compatible	ASUS	VG248QG	No	24	TN	1920x1080 (FHD)	48-144Hz	No	Display Port	430.39 or newer
+G-SYNC Compatible	ASUS	MG278Q	No	27	TN	2560x1440 (QHD)	40-144Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	ASUS	PG32UQ	Yes	32	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	471.68 or newer
+G-SYNC Compatible	ASUS	PG48UQ	Yes	48	OLED	3840x2160 (4K)	48-120Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	ASUS	PG49WCD	Yes	49	OLED	5140x1440 (DQHD)	48-144Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	ASUS	XG16A	No	15.6	IPS	1920x1080 (FHD)	60-144Hz	No	Display Port	465.89 or newer
+G-SYNC Compatible	ASUS	XG248Q	No	23.8	TN	1920x1080 (FHD)	48-240Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	ASUS	XG256Q	No	25	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	ASUS	XG276Q	Yes	27	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	ASUS	XG279Q	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	441.08 or newer
+G-SYNC Compatible	ASUS	XG32AQ	Yes	32	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	528.49 or newer
+G-SYNC Compatible	ASUS	XG32UQ	Yes	32	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	ASUS	XG349C	Yes	34	IPS	3440x1440 (WQHD)	48-144Hz	No	Display Port	466.27 or newer
+G-SYNC Compatible	Alienware	AW2720HF	No	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	440.97 or newer
+G-SYNC Compatible	Alienware	AW3225QF	Yes	32	OLED	3840x2160 (4K)	40-240Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	Alienware	AW5520QF	Yes	55	OLED	3840x2160 (4K)	48-120Hz	No	Display Port	441.66 or newer
+G-SYNC Compatible	Alienware	AW2521HFLA	No	24.5	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	457.09 or newer
+G-SYNC Compatible	BenQ	XL2740	No	27	TN	1920x1080 (FHD)	48-240Hz	No	Display Port	419.67 or newer
+G-SYNC Compatible	BenQ	XL2540	No	24.5	TN	1920x1080 (FHD)	48-240Hz	No	Display Port	419.35 or newer
+G-SYNC Compatible	Corsair	27QHD240	Yes	27	OLED	2560x1440 (QHD)	40-240Hz	No	Display Port	536.23 or newer
+G-SYNC Compatible	Corsair	315QHD165	Yes	31.5	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	546.29 or newer
+G-SYNC Compatible	Corsair	32QHD240	No	32	IPS	2560x1440 (QHD)	60-240Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	Corsair	32UHD144	No	32	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	Corsair	45WQHD240	Yes	45	OLED	3440x1440 (WQHD)	40-240Hz	No	Display Port	536.23 or newer
+G-SYNC Compatible	Dell	AW2723DF	Yes	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	Dell	AW2724DM	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	536.67 or newer
+G-SYNC Compatible	Dell	AW2725QF	Yes	27	IPS	3840x2160 (4K)	48-165Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	Dell	G2422HS	No	24	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	497.09 or newer
+G-SYNC Compatible	Dell	G2524H	No	24.5	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	531.68 or newer
+G-SYNC Compatible	Dell	G2722HS	No	27	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	497.09 or newer
+G-SYNC Compatible	Dell	G2723HN	No	27	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	511.23 or newer
+G-SYNC Compatible	Dell	G2724D	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	531.68 or newer
+G-SYNC Compatible	Dell	G3223D	Yes	32	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	497.09 or newer
+G-SYNC Compatible	Dell	G3223Q	Yes	32	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	Future
+G-SYNC Compatible	Dell	S2419HGF	No	24	TN	1920x1080 (FHD)	48-120Hz	No	Display Port	430.86 or newer
+G-SYNC Compatible	Dell	S2421HGF	No	24	TN	1920x1080 (FHD)	48-144Hz	No	Display Port	451.48 or newer
+G-SYNC Compatible	Dell	S2522HG	Yes	24.5	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	465.89 or newer
+G-SYNC Compatible	Dell	S2721HGF	Yes	27	IPS	1920X1080 (FHD)	48-144Hz	No	Display Port	451.67 or newer
+G-SYNC Compatible	Dell	S2721DGF	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	451.67 or newer
+G-SYNC Compatible	Alienware	AW2521HF	Yes	24.5	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	442.16 or newer
+G-SYNC Compatible	Alienware	AW2521HFL	Yes	24.5	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	442.16 or newer
+G-SYNC Compatible	Dough	ES07D02	Yes	27	IPS	2560x1440 (QHD)	48-280Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	Dough	ES07E2D	Yes	27	OLED	2560x1440 (QHD)	48-240Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	Funai	FGM-27F750	Yes	27	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	531.68 or newer
+G-SYNC Compatible	Galax	VI-01	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	512.59 or newer
+G-SYNC Compatible	Galax	VIVANCE-32Q	Yes	32	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	Future
+G-SYNC Compatible	Galax	Q3222SUC	Yes	32	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	546.01 or newer
+G-SYNC Compatible	GIGABYTE	AD27QD	Yes	27	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	430.39 or newer
+G-SYNC Compatible	GIGABYTE	FI25F	Yes	24.5	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	457.09 or newer
+G-SYNC Compatible	GIGABYTE	FI27Q	No	27	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	436.30 or newer
+G-SYNC Compatible	GIGABYTE	FI27Q-P	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	436.30 or newer
+G-SYNC Compatible	GIGABYTE	FI27Q-X	Yes	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	460.79 or newer
+G-SYNC Compatible	HP	24x	No	23.8	TN	1920x1080 (FHD)	48-144Hz	No	Display Port	431.60 or newer
+G-SYNC Compatible	HP	25x	No	25	TN	1920x1080 (FHD)	48-144Hz	No	Display Port	431.36 or newer
+G-SYNC Compatible	HP	25mx	No	25	TN	1920x1080 (FHD)	48-144Hz	No	Display Port	431.36 or newer
+G-SYNC Compatible	HP	OMEN 25i	Yes	24.5	IPS	1920x1080 (FHD)	60-165Hz	No	Display Port	465.89 or newer
+G-SYNC Compatible	HP	OMEN 27i	No	27	IPS	2560x1440 (QHD)	50-165Hz	No	Display Port	445.87 or newer
+G-SYNC Compatible	HP	OMEN 27k	Yes	27	IPS	3840x2160 (4K)	55-144Hz	No	Display Port	Future
+G-SYNC Compatible	HP	OMEN 27i IPS	No	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	511.23 or newer
+G-SYNC Compatible	HP	OMEN 27qs	Yes	27	IPS	2560x1440 (QHD)	60-240Hz	No	Display Port	Future
+G-SYNC Compatible	HP	OMEN 27s	Yes	27	IPS	1920x1080 (FHD)	60-240Hz	No	Display Port	Future
+G-SYNC Compatible	HP	OMEN X 25f	No	25	TN	1920x1080 (FHD)	48-240Hz	No	Display Port	431.36 or newer
+G-SYNC Compatible	HP	HyperX Armada 27	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	HP	HyperX Armada 25	Yes	25	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	I-O DATA	GC241UXD	Yes	24	IPS	1920x1080 (FHD)	60-240Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	I-O DATA	GC253U	No	24.5	IPS	1920x1080 (FHD)	59-240Hz	No	Display Port	531.79 or newer
+G-SYNC Compatible	I-O DATA	GCU271HXA	Yes	27	IPS	3840x2160 (4K)	59-160Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	I-O DATA	GC271HXB	Yes	27	TN	1920x1080 (FHD)	50-165Hz	No	Display Port	445.87 or newer
+G-SYNC Compatible	I-O DATA	GC272HXD	Yes	27	IPS	1920x1080 (FHD)	60-165Hz	No	Display Port	471.68 or newer
+G-SYNC Compatible	I-O DATA	GC243HXD	Yes	24	IPS	1920x1080 (FHD)	60-165Hz	No	Display Port	465.89 or newer
+G-SYNC Compatible	I-O DATA	GC252UX	Yes	24.5	TN	1920x1080 (FHD)	55-240Hz	No	Display Port	456.38 or newer
+G-SYNC Compatible	I-O DATA	GCQ271HA	Yes	27	IPS	2560x1440 (QHD)	59-165Hz	No	Display Port	528.49 or newer
+G-SYNC Compatible	I-O DATA	GCQ321HXD	Yes	31.5	IPS	2560x1440 (QHD)	59-165Hz	No	Display Port	465.89 or newer
+G-SYNC Compatible	I-O DATA	GD241JD	Yes	24	IPS	1920x1080 (FHD)	59-180Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	I-O DATA	GD271JD	Yes	27	IPS	1920x1080 (FHD)	59-180Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	I-O DATA	GD271UAX	Yes	27	IPS	1920x1080 (FHD)	59-240Hz	No	Display Port	531.79 or newer
+G-SYNC Compatible	I-O DATA	GDQ271JA	Yes	27	IPS	2560x1440 (QHD)	59-180Hz	No	Display Port	537.34 or newer
+G-SYNC Compatible	Lenovo	G24-10	Yes	24	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	451.48 or newer
+G-SYNC Compatible	Lenovo	G24-20	Yes	24	IPS	1920x1080 (FHD)	50-165Hz	No	Display Port	471.68 or newer
+G-SYNC Compatible	Lenovo	G25-10	Yes	25	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	451.67 or newer
+G-SYNC Compatible	Lenovo	G27Q-20	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	471.96 or newer
+G-SYNC Compatible	Lenovo	Y25-25	No	24.5	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	452.06 or newer
+G-SYNC Compatible	Lenovo	Y27Q-20	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	440.97 or newer
+G-SYNC Compatible	Lenovo	Y27-30	Yes	27	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	528.49 or newer
+G-SYNC Compatible	LG	2022 8K Z2 series	Yes	77, 88	OLED	7680x4320 (8K)	40-120Hz	No	HDMI 2.1	461.72 or newer
+G-SYNC Compatible	LG	2022 4K G2 series	Yes	55, 65, 77, 83, 97	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	461.72 or newer
+G-SYNC Compatible	LG	2022 4K C2 series	Yes	42, 48, 55, 65, 77, 83	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	461.72 or newer
+G-SYNC Compatible	LG	2022 4K CS series	Yes	55, 65, 77	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	461.72 or newer
+G-SYNC Compatible	LG	2022 4K B2 series	Yes	55, 65, 77	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	461.72 or newer
+G-SYNC Compatible	LG	2024 LX1T series	Yes	42, 48, 55	OLED	3840x2160 (4K)	40-144Hz	No	HDMI	Upcoming Driver
+G-SYNC Compatible	LG	2024 4K M4 / G4	Yes	97	OLED	3840x2160 (4K)	40-120Hz	No	HDMI	Upcoming Driver
+G-SYNC Compatible	LG	2024 4K M4 / G4	Yes	83, 77, 65, 55	OLED	3840x2160 (4K)	40-144Hz	No	HDMI	Upcoming Driver
+G-SYNC Compatible	LG	2024 4K C4 series	Yes	83, 77, 65, 55, 48, 42	OLED	3840x2160 (4K)	40-144Hz	No	HDMI	Upcoming Driver
+G-SYNC Compatible	LG	2024 4K CS4 series	Yes	55, 65	OLED	3840x2160 (4K)	40-120Hz	No	HDMI	Upcoming Driver
+G-SYNC Compatible	LG	2024 4k B4 series	Yes	77, 65, 55, 48	OLED	3840x2160 (4K)	40-120Hz	No	HDMI	Upcoming Driver
+G-SYNC Compatible	LG	24GS60F	Yes	24	IPS	1920x1080 (FHD)	48-180Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	LG	27GP750P	Yes	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	LG	27GS60F	Yes	27	IPS	1920x1080 (FHD)	48-180Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	LG	27GS75Q/27GS75QX	Yes	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	LG	27GS85Q/27GS85QX/27GS86Q	Yes	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	LG	27GS95QE/27GS95QX	Yes	27	OLED	2560x1440 (QHD)	48-240Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	LG	27GR75QB	Yes	27	IPS	2560X1440 (QHD)	60-144Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	LG	27GK750F-B	No	27	TN	1920x1080 (FHD)	48-240Hz	No	Display Port	430.39 or newer
+G-SYNC Compatible	LG	27GL63T	Yes	27	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	436.30 or newer
+G-SYNC Compatible	LG	27GL650	Yes	27	IPS	1920x1080 (FHD)	48-144Hz	No	Display Port	436.30 or newer
+G-SYNC Compatible	LG	27GL83A	No	27	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	430.86 or newer
+G-SYNC Compatible	LG	27GN60R/27GN65R	Yes	27	IPS	1920x1080 (FHD)	60-144Hz	No	Display Port	456.38 or newer
+G-SYNC Compatible	LG	27GN750/27GP750	Yes	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	430.86 or newer
+G-SYNC Compatible	LG	27GN800	Yes	27	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	456.38 or newer
+G-SYNC Compatible	LG	27GN95R	Yes	27	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	451.48 or newer
+G-SYNC Compatible	LG	27GR95QE	Yes	27	OLED	2560x1440 (QHD)	48-240Hz	No	Display Port	546.29 or newer
+G-SYNC Compatible	LG	27GR95UM	Yes	27	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	546.29 or newer
+G-SYNC Compatible	LG	27GR83Q	Yes	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	536.23 or newer
+G-SYNC Compatible	LG	27GR93U	Yes	27	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	537.34 or newer
+G-SYNC Compatible	LG	27GR750Q	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	537.34 or newer
+G-SYNC Compatible	LG	27GR75Q	No	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	536.67 or newer
+G-SYNC Compatible	LG	27PG95R	Yes	27	Nano IPS	3840x2160 (4K)	48-144Hz	No	Display Port	536.67 or newer
+G-SYNC Compatible	LG	32GN50T/32GN500	Yes	27	IPS	1920x1080 (FHD)	60-165Hz	No	Display Port	451.48 or newer
+G-SYNC Compatible	LG	32GN650/32GN63T	Yes	32	IPS	2560x1440 (QHD)	60-144Hz	No	Display Port	471.11 or newer
+G-SYNC Compatible	LG	32GP850/32GP83B	Yes	32	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	465.89 or newer
+G-SYNC Compatible	LG	32GP75A	Yes	32	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	LG	32GS85Q/32GS85QX/32GS86Q	Yes	32	IPS	2560x1440 (QHD)	60-180Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	LG	32GR75Q	Yes	32	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	546.01 or newer
+G-SYNC Compatible	LG	32GR93U	Yes	32	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	536.23 or newer
+G-SYNC Compatible	LG	32GS75Q/32GS75QX	Yes	32	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	LG	34GN850	Yes	34	IPS	3440x1440 (WQHD)	48-144Hz	No	Display Port	442.16 or newer
+G-SYNC Compatible	LG	34GN73A	No	34	IPS	2560x1080(WFHD)	50-144Hz	No	Display Port	431.36 or newer
+G-SYNC Compatible	LG	34GS95QB/34GS95QE	Yes	34	OLED	3440x1440 (WQHD)	48-240Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	LG	34GS95QE/34GS95QX	Yes	34	OLED	3440x1440 (WQHD)	48-240Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	LG	38GN950	Yes	37.5	IPS	3840x1600 (WQHD+)	48-144Hz	No	Display Port	441.41 or newer
+G-SYNC Compatible	LG	27GL850	No	27	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	430.86 or newer
+G-SYNC Compatible	LG	34GL750	No	34	IPS	2560x1080 (WFHD)	50-144Hz	No	Display Port	431.36 or newer
+G-SYNC Compatible	LG	27GP850/27GP83B	Yes	27	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	466.27 or newer
+G-SYNC Compatible	LG	27GP95R	Yes	27	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	466.11 or newer
+G-SYNC Compatible	LG	32GS95UE/32GS95UX	Yes	32	OLED	3840x2160 (4K)	48-240Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	LG	32GP750	Yes	32	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	497.09 or newer
+G-SYNC Compatible	LG	32GQ85B/32GQ85X/32GQ850L	Yes	32	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	LG	32GQ95B	Yes	24	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	LG	32GQ950	Yes	32	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	531.68 or newer
+G-SYNC Compatible	LG	38WN95C	No	37.5	IPS	3840x1600 (WQHD+)	48-144Hz	No	Display Port	441.41 or newer
+G-SYNC Compatible	LG	38BR85QC	Yes	38	IPS	3840x1600 (WQHD+)	48-144Hz	No	Display Port	537.34 or newer
+G-SYNC Compatible	LG	38WR85QC	Yes	38	IPS	3840x1600 (WQHD+)	48-144Hz	No	Display Port	537.34 or newer
+G-SYNC Compatible	LG	39GS95QE/39GS95QX	Yes	39	OLED	3440x1440 (WQHD)	48-240Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	LG	45GS95QE/45GS95QX	Yes	45	OLED	3440x1440 (WQHD)	48-240Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	LG	45GR95QE	Yes	45	OLED	3440x1440 (WQHD)	40-240Hz	No	Display Port	528.49 or newer
+G-SYNC Compatible	LG	45GS96QB	Yes	45	OLED	3440x1440 (WQHD)	48-240Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	LG	48GQ90B	Yes	48	OLED	3840x2160 (4K)	48-120Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	LG	49WQ95X/49BQ95C	Yes	49	IPS	5120x1440 (QHDx2)	48-144Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	LG	2019 B9, C9, E9	Yes	55	OLED	3840x2160 (4K)	40-120Hz	No	HDMI	HDMI VRR Driver
+G-SYNC Compatible	LG	2019 B9, C9, E9	Yes	65	OLED	3840x2160 (4K)	40-120Hz	No	HDMI	HDMI VRR Driver
+G-SYNC Compatible	LG	2019 B9, C9	Yes	77	OLED	3840x2160 (4K)	40-120Hz	No	HDMI	HDMI VRR Driver
+G-SYNC Compatible	LG	2019 Z9	Yes	88	OLED	7680x4320 (8K)	40-120Hz	No	HDMI	TV Firmware Update
+G-SYNC Compatible	LG	2020 BX, CX, GX	Yes	55	OLED	3840x2160 (4K)	40-120Hz	No	HDMI	445.51 or newer
+G-SYNC Compatible	LG	2020 BX, CX, GX	Yes	65	OLED	3840x2160 (4K)	40-120Hz	No	HDMI	445.51 or newer
+G-SYNC Compatible	LG	2020 BX, CX, GX	Yes	77	OLED	3840x2160 (4K)	40-120Hz	No	HDMI	445.51 or newer
+G-SYNC Compatible	LG	2020 CX	Yes	48	OLED	3840x2160 (4K)	40-120Hz	No	HDMI	445.51 or newer
+G-SYNC Compatible	LG	2020 ZX	Yes	77, 88	OLED	7680x4320 (8K)	40-120Hz	No	HDMI	445.51 or newer
+G-SYNC Compatible	LG	2021 B1 4K series	Yes	77, 65, 55	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	461.40 or newer
+G-SYNC Compatible	LG	2021 C1 4K series	Yes	83, 77, 65, 55, 48	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	461.40 or newer
+G-SYNC Compatible	LG	2021 G1 4K series	Yes	77, 65, 55	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	461.40 or newer
+G-SYNC Compatible	LG	2021 Z1 8K series	Yes	88, 77	OLED	7680x4320 (8K)	40-120Hz	No	HDMI 2.1	461.40 or newer
+G-SYNC Compatible	LG	LX1Q	Yes	55,48,42	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	516.94 or newer
+G-SYNC Compatible	LG	LX3Q	Yes	42	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	461.72 or newer
+G-SYNC Compatible	LG	M3	Yes	97, 83, 77	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	536.67 or newer
+G-SYNC Compatible	MSI	G273	No	27	IPS	1920x1080 (FHD)	60-165Hz	No	Display Port	497.09 or newer
+G-SYNC Compatible	MSI	G274F	Yes	27	IPS	1920x1080	60-180Hz	No	Display Port	Future
+G-SYNC Compatible	MSI	G274GPX	Yes	27	IPS	2560x1440 (QHD)	60-240Hz	No	Display Port	Future
+G-SYNC Compatible	MSI	G274	Yes	27	IPS	1920x1080 (FHD)	60-165Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	MSI	G321Q	Yes	32	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	528.49 or newer
+G-SYNC Compatible	MSI	MAG251RX	Yes	24.5	IPS	1920x1080 (FHD)	48-120Hz	No	Display Port	461.40 or newer
+G-SYNC Compatible	MSI	MAG274UPF	Yes	27	IPS	3840x2160	60-144Hz	No	Display Port	Future
+G-SYNC Compatible	MSI	MAG281URF	Yes	28	IPS	3840x2160 (4K)	60-144Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	MSI	MAG301RF	Yes	30	IPS	2560x1080 (WFHD)	60-200Hz	No	Display Port	466.11 or newer
+G-SYNC Compatible	MSI	MAG321QR	Yes	32	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	471.96 or newer
+G-SYNC Compatible	MSI	MPG321QRF-QD	Yes	32	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	496.49 or newer
+G-SYNC Compatible	MSI	MPG341QR	Yes	34	IPS	3440x1440 (WQHD)	60-144Hz	No	Display Port	546.01 or newer
+G-SYNC Compatible	MSI	MPG321UR-QD	Yes	32	IPS	3840x2160 (4K)	60-144Hz	No	Display Port	511.23 or newer
+G-SYNC Compatible	MSI	G251F	No	24.5	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	471.68 or newer
+G-SYNC Compatible	MSI	G273Q	Yes	27	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	461.40 or newer
+G-SYNC Compatible	MSI	MAG274QRF	No	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	457.30 or newer
+G-SYNC Compatible	MSI	MAG274R	No	27	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	460.79 or newer
+G-SYNC Compatible	Philips	24M1N3200ZA	No	24	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	511.23 or newer
+G-SYNC Compatible	Philips	25M2N3200	Yes	25	IPS	1920x1080 (FHD)	48-180Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	Philips	25M2N5200P	No	24.5	IPS	1920x1080 (FHD)	48-280Hz	No	Display Port	537.34 or newer
+G-SYNC Compatible	Philips	27M1N5900	Yes	27	IPS	3840x2160 (4K)	50-144Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	Philips	27M1N5500P	Yes	27	IPS	2560X1440 (QHD)	48-240Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	Philips	27M1N5200PA	Yes	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	Philips	27M1N5500ZA	Yes	27	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	Philips	27M1N5500ZR	Yes	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	546.29 or newer
+G-SYNC Compatible	Philips	275M1RZ	Yes	27	IPS	2560x1440 (QHD)	60-170Hz	No	Display Port	461.40 or newer
+G-SYNC Compatible	Philips	27M2N3200	Yes	27	IPS	1920x1080 (FHD)	48-180Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	Philips	27M2N5500	Yes	27	IPS	2560x1440 (QHD)	48-180Hz	No	Display Port	555.85 or newer
+G-SYNC Compatible	Philips	275M8RZ	Yes	27	IPS	2560x1440 (QHD)	60-165Hz	No	Display Port	460.79 or newer
+G-SYNC Compatible	Philips	279M1RV	Yes	27	IPS	3840x2160 (4K)	60-144Hz	No	Display Port	466.27 or newer
+G-SYNC Compatible	Philips	32M1N5800	Yes	32	IPS	3840x2160 (4K)	60-144Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	Philips	49M2C8900	Yes	49	OLED	5120x1440 (DQHD)	48-240Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	Philips	OLED806	Yes	48, 77	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	Upcoming Driver
+G-SYNC Compatible	Philips	OLED706	Yes	65	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	Upcoming Driver
+G-SYNC Compatible	Philips	OLED936	Yes	55	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	Upcoming Driver
+G-SYNC Compatible	Philips	OLED9x8	Yes	55, 65, 77	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	Future
+G-SYNC Compatible	Philips	OLED8x8	Yes	42, 48, 55, 65, 77	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	Future
+G-SYNC Compatible	Philips	OLED7x8	Yes	48, 55, 65	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	Future
+G-SYNC Compatible	Philips	77OLED807/12	Yes	77	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	516.94 or newer
+G-SYNC Compatible	Philips	PHL24M1N5500Z	Yes	24	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	Philips	PHL252M1RPE	Yes	25	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	Philips	PHL27M1N3200Z	No	27	IPS	1920x1080 (FHD)	48-165Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	Philips	PHL27M1N5200P	No	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	Philips	PHL276M1RPE	Yes	27	IPS	2560x1440 (QHD)	48-240Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	Philips	PHL32M1N5800A	Yes	32	IPS	3840x2160 (4K)	60-144Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	Philips	PHL32M1N5500Z	Yes	32	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	Philips TV	42OLED808	Yes	42	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	537.13 or newer
+G-SYNC Compatible	Philips TV	FTV OLED907	Yes	65, 55, 48	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	526.98 or newer
+G-SYNC Compatible	Philips TV	FTV OLED937	Yes	77, 65	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	526.98 or newer
+G-SYNC Compatible	Razer	Raptor 27	Yes	27	IPS	2560x1440 (QHD)	48-144Hz	No	Display Port	431.60 or newer
+G-SYNC Compatible	Samsung	2020 Odyssey G7	Yes	27	VA	2560x1440 (QHD)	60-240Hz	No	Display Port	452.06 or newer
+G-SYNC Compatible	Samsung	2020 Odyssey G7	Yes	32	VA	2560x1440 (QHD)	80-240Hz	No	Display Port	451.48 or newer
+G-SYNC Compatible	Samsung	2020 Odyssey G9	Yes	49	VA	5120x1440 (QHDx2)	60-240Hz	No	Display Port	452.06 or newer
+G-SYNC Compatible	Samsung	Odyssey G93SC	Yes	49	OLED	5120x1440 (QHDx2)	48-240Hz	No	Display Port	551.86 or newer
+G-SYNC Compatible	Samsung	Odyssey G95SC	Yes	49	OLED	5120x1440 (QHDx2)	48-240Hz	No	Display Port	537.13 or newer
+G-SYNC Compatible	Samsung	CRG5	No	27	VA	1920x1080 (FHD)	48-240Hz	No	Display Port	430.86 or newer
+G-SYNC Compatible	Samsung	LS28AG700N	Yes	28	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	471.11 or newer
+G-SYNC Compatible	Samsung	G95NA	Yes	49	VA	5120x1440 (QHDx2)	60-240Hz	No	Display Port	512.59 or newer
+G-SYNC Compatible	Samsung	Odyssey G40B	Yes	25, 27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	Samsung	Odyssey 27 G50A/G52A	Yes	27	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	471.11 or newer
+G-SYNC Compatible	Sony	INZONE M9	Yes	27	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	516.94 or newer
+G-SYNC Compatible	Sony	INZONE M3	Yes	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	526.98 or newer
+G-SYNC Compatible	ViewSonic	VP2776	Yes	27	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	512.15 or newer
+G-SYNC Compatible	ViewSonic	VX2781-2K-Pro/2	Yes	27	IPS	2560x1440 (QHD)	48-170Hz	No	Display Port	528.49 or newer
+G-SYNC Compatible	ViewSonic	VX2781-4K-Pro	Yes	27	IPS	3840x2160 (4K)	48-150Hz	No	Display Port	528.49 or newer
+G-SYNC Compatible	ViewSonic	VX3220-4K-Pro	Yes	32	IPS	3840x2160 (4K)	48-144Hz	No	Display Port	511.23 or newer
+G-SYNC Compatible	ViewSonic	XG250	Yes	24.5	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	471.96 or newer
+G-SYNC Compatible	ViewSonic	XG270	No	27	IPS	1920x1080 (FHD)	48-240Hz	No	Display Port	441.41 or newer
+G-SYNC Compatible	ViewSonic	XG270Q	Yes	27	IPS	2560x1440 (QHD)	50-165Hz	No	Display Port	456.38 or newer
+G-SYNC Compatible	ViewSonic	XG272-2K-OLED	Yes	27	OLED	2560x1440 (QHD)	48-240Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	ViewSonic	XG320Q	Yes	32	IPS	2560x1440 (QHD)	48-165Hz	No	Display Port	471.68 or newer
+G-SYNC Compatible	Xiaomi	Mi 245 HF	No	24.5	IPS	1920x1080 (FHD)	50-144Hz	No	Display Port	457.30 or newer
+G-SYNC Compatible	Xiaomi	Mi 245 HF1	No	24.5	IPS	1920x1080 (FHD)	50-165Hz	No	Display Port	465.89 or newer
+G-SYNC Compatible	Thermaltake	27FTQB	Yes	27	IPS	2560X1440 (QHD)	48-165Hz	No	Display Port	Upcoming Driver
+G-SYNC Compatible	Xiaomi	Master 77 OLED	Yes	77	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	471.96 or newer
+G-SYNC Compatible TV	LG	2023 Z3	Yes	88, 77	OLED	7680x4320 (8K)	40-60Hz	No	HDMI 2.1	536.67 or newer
+G-SYNC Compatible TV	LG	2023 G3	Yes	83, 77, 65, 55	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	536.67 or newer
+G-SYNC Compatible TV	LG	2023 C3	Yes	83, 77, 65, 55, 48, 42	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	536.67 or newer
+G-SYNC Compatible TV	LG	2023 B3	Yes	77, 65, 55	OLED	3840x2160 (4K)	40-120Hz	No	HDMI 2.1	536.67 or newer
+G-SYNC Compatible	Panasonic	48MZ1800	Yes	48	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	536.67 or newer
+G-SYNC Compatible TV	Panasonic	MZ980	Yes	42, 48, 55, 65	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	Future
+G-SYNC Compatible TV	Panasonic	MZ1500	Yes	42, 48, 55, 65	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	Future
+G-SYNC Compatible TV	Panasonic	MZ2000	Yes	77, 65, 55	OLED	3840x2160 (4K)	48-120Hz	No	HDMI 2.1	Future

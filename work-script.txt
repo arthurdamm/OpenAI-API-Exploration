@@ -1,0 +1,8 @@
+# cut out just model names
+cat gsync-data.txt | cut -f1-3 > gsync-data-models.txt
+
+ cat gsync-data.txt | cut -f1-3 > gsync-data-models.txt
+
+# delete leading gsync string regex:
+^.+?\t
+
